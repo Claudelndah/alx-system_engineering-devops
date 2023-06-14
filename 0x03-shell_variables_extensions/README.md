@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This repository contain a bash file tfor exercice where ami
+this repository contain the shell variable and extensions project
